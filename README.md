@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Phapale</h1>
 <h3 align="center">A passionate aspiring Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitphapale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitphapale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitphapale" alt="abhijitphapale" /></a> </p>
-
 - 🌱 I’m currently learning **DSA, python, java, MongoDB**
 
 - 🔭 I’m currently working on **Computer Vision Project on driver drowsiness detection**
