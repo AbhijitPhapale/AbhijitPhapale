@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **abhijitphapaleit@sanjivanicoe.org.in**
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AbhijitPhapale.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhijitPhapale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhijit_phapale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijit_phapale" height="30" width="40" /></a>
