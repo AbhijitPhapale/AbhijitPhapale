@@ -10,6 +10,27 @@
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **abhijitphapaleit@sanjivanicoe.org.in**
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/jVP1gqOHQ4iQeyWuBXOoXw",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "f3e2fd26c59c45659afdc6270c6056b5",
+    "hashed": true,
+    "identity": "sha256$a1137063df322fa5bf4eaae06aadf3a343b09176fcca78baab9deb5dbc3656d9"
+  },
+  "badge": "https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w",
+  "issuedOn": "2023-03-13T17:10:29.164Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/jVP1gqOHQ4iQeyWuBXOoXw/image"
+  },
+  "narrative": "This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection",
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AbhijitPhapale.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhijitPhapale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
