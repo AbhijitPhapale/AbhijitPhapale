@@ -32,10 +32,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AbhijitPhapale.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhijitPhapale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-```json
-{
-  "badge_name": "Postman API Fundamentals Student Expert Badge!",
-  "badge_image_url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F26fp2261340y1ukokimvca8su%2Fpublic%2F1654640141%2FAPI+Fundamentals+%281%29.1654640141264.png",
-  "badge_url": "https://badgr.com/public/assertions/jVP1gqOHQ4iQeyWuBXOoXw?identity__email=abhijitphapaleit@sanjivanicoe.org.in"
-}
+
+[![Postman API Fundamentals Student Expert Badge](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F26fp2261340y1ukokimvca8su%2Fpublic%2F1654640141%2FAPI+Fundamentals+%281%29.1654640141264.png)](https://badgr.com/public/assertions/jVP1gqOHQ4iQeyWuBXOoXw?identity__email=abhijitphapaleit@sanjivanicoe.org.in)
+
 
